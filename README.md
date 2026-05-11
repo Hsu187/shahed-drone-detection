@@ -3,7 +3,7 @@ Computer vision Model to detect shahed fixed wing drone.
 
 
 ## Data Base
-Collected images and annotation in roboflow. Data set link: https://app.roboflow.com/hsu-myat-thein-lwin/shahed_fixedwingdrone_detection/7. More than 1000 images: different weather conditions, environment, angles and distance, use Bounding box for annotation (.zip file also in file). Argumentations used-
+Collected images and annotation in roboflow. Data set link: https://app.roboflow.com/hsu-myat-thein-lwin/shahed_fixedwingdrone_detection/7. More than 1000 images: different weather conditions, environment, angles and distance, use Bounding box for annotation. Argumentations used-
 1. Mosaic (0.909) - Combined 4 training images into one
 2. Rotation (±1.11°) - Simulated drone banking angles
 3. Scale (0.562) - Simulated drones at varying distances
