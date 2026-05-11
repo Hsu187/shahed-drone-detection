@@ -13,6 +13,8 @@ Collected images and annotation in roboflow. Data set link: https://app.roboflow
 7. Hue (±1.4%) - Minor color shifts
 8. Translation (±10%) - Drones near frame edges
 9. Close Mosaic (10) - Disabled mosaic in final 10 epochs
+
+## Train
 Dataset yoloV26 format and trained in Google colab
 
 ## Result
